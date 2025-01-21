@@ -1,7 +1,7 @@
 # Bangalore-Traffic-Prediction-App-Pure-Sciket-Learn-No-AutoML-
 This project predicts Bangalore’s traffic volume using machine learning through various ml pipelines. It preprocesses data, applies models, and provides real-time predictions via an interactive Streamlit app, making it ideal for traffic management and analysis.
 
-# Project Summary
+# Project Summary (Pls note best code is iteration4.py)
 
 This project predicts traffic volume in Bangalore by analyzing traffic and environmental data. It preprocesses the data, applies machine learning models, and provides predictions through an interactive Streamlit app. The system is designed for scalability, offering users the ability to upload datasets and visualize predictions in real-time.
 
